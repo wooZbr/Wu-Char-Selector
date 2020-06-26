@@ -2,7 +2,8 @@
 Wu Char Selector is a "Char Selector" cleo mod for GTA San Andreas
 
 How to use:
--Ini file
+
+-Ini file:
 It's the configuration file,you can change what skin player will use in each slot and the default skin.
 Remember to put skin Id not dff name. Here you can see skins ids > https://wiki.sa-mp.com/wiki/Skins:All
 
@@ -14,7 +15,7 @@ LastUsed =0       = The last skin that player used.
 [Pskin1]          = Slot 1
 Model =0          = Slot 1 model
 
--fxt file
+-fxt file:
 Used to change the menu and menu itens name
 
 MENUNM Select Character         = Menu name   (yes,you can translate it to indonesian...)
