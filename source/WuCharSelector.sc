@@ -1,31 +1,12 @@
 SCRIPT_START
 {
 NOP
-SCRIPT_NAME wu_char     //wu char selector
+SCRIPT_NAME WUCHAR     //wu char selector
 
 WAIT 0
 LVAR_INT scplayer
-//Pmodels
-    LVAR_INT pmodel
-    LVAR_INT pmodel1
-    LVAR_INT pmodel2
-    LVAR_INT pmodel3
-    LVAR_INT pmodel4
-    LVAR_INT pmodel5
-    LVAR_INT pmodel6
-    LVAR_INT pmodel7
-    LVAR_INT pmodel8
-    LVAR_INT pmodel9
-    LVAR_INT pmodel10
-//LVAR_INT opencmd
-LVAR_INT foimudado
-LVAR_INT uselast
-LVAR_INT lastused
-LVAR_INT charmenu selected
-LVAR_INT skinpick
-LVAR_INT skinblip
-LVAR_INT pickmodel
-LVAR_INT blipcolour
+LVAR_INT pmodel pmodel1 pmodel2 pmodel3 pmodel4 pmodel5 pmodel6 pmodel7 pmodel8 pmodel9 pmodel10
+LVAR_INT foimudado uselast lastused charmenu selected skinpick skinblip pickmodel blipcolour
 LVAR_FLOAT x y z
 foimudado = 0
 
